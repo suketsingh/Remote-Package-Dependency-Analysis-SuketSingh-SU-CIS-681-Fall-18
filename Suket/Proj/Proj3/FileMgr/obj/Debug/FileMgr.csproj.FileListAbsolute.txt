@@ -1,0 +1,11 @@
+D:\ProjectFinal\Proj3\FileMgr\bin\Debug\Navigate.dll
+D:\ProjectFinal\Proj3\FileMgr\bin\Debug\Navigate.pdb
+D:\ProjectFinal\Proj3\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+D:\ProjectFinal\Proj3\FileMgr\obj\Debug\Navigate.dll
+D:\ProjectFinal\Proj3\FileMgr\obj\Debug\Navigate.pdb
+C:\Users\suket\Downloads\Suket\Suket\Proj\Proj3\FileMgr\bin\Debug\Navigate.dll
+C:\Users\suket\Downloads\Suket\Suket\Proj\Proj3\FileMgr\bin\Debug\Navigate.pdb
+C:\Users\suket\Downloads\Suket\Suket\Proj\Proj3\FileMgr\obj\Debug\FileMgr.csprojAssemblyReference.cache
+C:\Users\suket\Downloads\Suket\Suket\Proj\Proj3\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Users\suket\Downloads\Suket\Suket\Proj\Proj3\FileMgr\obj\Debug\Navigate.dll
+C:\Users\suket\Downloads\Suket\Suket\Proj\Proj3\FileMgr\obj\Debug\Navigate.pdb

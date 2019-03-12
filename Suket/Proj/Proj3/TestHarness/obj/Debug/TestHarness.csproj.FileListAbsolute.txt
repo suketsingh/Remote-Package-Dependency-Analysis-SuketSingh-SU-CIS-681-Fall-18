@@ -1,0 +1,6 @@
+D:\ProjectFinal\Proj3\TestHarness\bin\Debug\TestHarness.exe.config
+D:\ProjectFinal\Proj3\TestHarness\bin\Debug\TestHarness.exe
+D:\ProjectFinal\Proj3\TestHarness\bin\Debug\TestHarness.pdb
+D:\ProjectFinal\Proj3\TestHarness\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+D:\ProjectFinal\Proj3\TestHarness\obj\Debug\TestHarness.exe
+D:\ProjectFinal\Proj3\TestHarness\obj\Debug\TestHarness.pdb

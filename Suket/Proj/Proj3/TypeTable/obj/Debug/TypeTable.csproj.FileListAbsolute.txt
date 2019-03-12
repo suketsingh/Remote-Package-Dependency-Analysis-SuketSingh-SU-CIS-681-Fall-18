@@ -1,0 +1,13 @@
+D:\ProjectFinal\Proj3\TypeTable\bin\Debug\TypeTable.dll.config
+D:\ProjectFinal\Proj3\TypeTable\bin\Debug\TypeTable.dll
+D:\ProjectFinal\Proj3\TypeTable\bin\Debug\TypeTable.pdb
+D:\ProjectFinal\Proj3\TypeTable\obj\Debug\TypeTable.csproj.CoreCompileInputs.cache
+D:\ProjectFinal\Proj3\TypeTable\obj\Debug\TypeTable.dll
+D:\ProjectFinal\Proj3\TypeTable\obj\Debug\TypeTable.pdb
+C:\Users\suket\Downloads\Suket\Suket\Proj\Proj3\TypeTable\bin\Debug\TypeTable.dll.config
+C:\Users\suket\Downloads\Suket\Suket\Proj\Proj3\TypeTable\bin\Debug\TypeTable.dll
+C:\Users\suket\Downloads\Suket\Suket\Proj\Proj3\TypeTable\bin\Debug\TypeTable.pdb
+C:\Users\suket\Downloads\Suket\Suket\Proj\Proj3\TypeTable\obj\Debug\TypeTable.csprojAssemblyReference.cache
+C:\Users\suket\Downloads\Suket\Suket\Proj\Proj3\TypeTable\obj\Debug\TypeTable.csproj.CoreCompileInputs.cache
+C:\Users\suket\Downloads\Suket\Suket\Proj\Proj3\TypeTable\obj\Debug\TypeTable.dll
+C:\Users\suket\Downloads\Suket\Suket\Proj\Proj3\TypeTable\obj\Debug\TypeTable.pdb
